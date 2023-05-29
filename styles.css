@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: white;
+  background-color: rgb(48, 48, 48);
+}
+
+.timer-time-set {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
